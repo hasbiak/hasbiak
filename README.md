@@ -15,7 +15,7 @@
 
 I am a passionate self-taught programmer from Indonesia.
 - 🌱 I’m currently learning Vue JS
-- 💬 Ask me about anything [here](https://wa.me/6289684811299
+- 💬 Ask me about anything [here](https://wa.me/6289684811299)
 - 📫 How to reach me: hasbialwi70@gmail.com <br>
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
