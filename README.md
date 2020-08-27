@@ -29,7 +29,7 @@ I am a passionate self-taught programmer from Indonesia.
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 <br />
+
 ![Hasbiak github stats](https://github-readme-stats.vercel.app/api?username=hasbiak&show_icons=true&hide_border=true)
 
-<br>
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
