@@ -19,7 +19,7 @@ I am a passionate self-taught programmer from Indonesia.
 - 📫 How to reach me: hasbialwi70@gmail.com <br>
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact :<br>
-“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler <br>
 **Languages and Tools:** &nbsp;
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -28,10 +28,8 @@ I am a passionate self-taught programmer from Indonesia.
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-
-
-*PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
-
 <br />
-
 ![Hasbiak github stats](https://github-readme-stats.vercel.app/api?username=hasbiak&show_icons=true&hide_border=true)
+
+<br>
+*PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
