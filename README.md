@@ -20,14 +20,15 @@ I am a passionate self-taught programmer from Indonesia.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact :<br>
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler <br>
+
 **Languages and Tools:** &nbsp;
+<br>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-
 <br />
 
 ![Hasbiak github stats](https://github-readme-stats.vercel.app/api?username=hasbiak&show_icons=true&hide_border=true)
